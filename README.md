@@ -6,10 +6,8 @@
 
 ## Roadmap to learn Flutter App Development
 
----
 <img src="images/map.png" />
 
----
 
 * Programming Language
 	* Dart
