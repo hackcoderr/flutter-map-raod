@@ -1,7 +1,7 @@
 ## Roadmap To Become A Flutter Developer. This is a practical road-map for Flutter app development.
 
 ## 🤓 Author(s)
-**Md Tarikul Islam** [![Twitter Follow](https://img.shields.io/twitter/follow/tarikul711.svg?style=social)](https://twitter.com/tarikul711)
+**Sachin Kumar** 
 
 
 ## Roadmap to learn Flutter App Development
